@@ -29,7 +29,7 @@ Nosso projeto segue o Canvas de Impacto Social, priorizando **acessibilidade, in
 ---
 
 ## 📂 Relatório Completo
-👉 Clique aqui para acessar o PDF do projeto: 
+👉 Clique aqui para acessar o PDF do projeto: https://github.com/Mateusbalduino/README.md/blob/main/Relatorio_EcoAcessivel.pdf
 
 ---
 
